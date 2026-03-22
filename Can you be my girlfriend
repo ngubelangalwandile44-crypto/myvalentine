@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Will You Be My Valentine?</title>
+<title>Will You Be My girlfriend?</title>
 
 <style>
     body {
@@ -86,11 +86,11 @@
 <body>
 
 <div class="card">
-    <h1>Happy Valentine’s Day ❤️</h1>
+    <h1>I'm glad you my girlfriend ❤️</h1>
     <h2>Dear <span style="color:#ff4d6d;">Aanya</span> 🌸</h2>
 
     <p>With all my heart 💕</p>
-    <p><strong>Will you be my Valentine?</strong> 💌</p>
+    <p><strong>Will you be my girlfriend?</strong> 💌</p>
 
     <div class="buttons">
         <button id="yesBtn" onclick="yesClicked()">Yes 💖</button>
